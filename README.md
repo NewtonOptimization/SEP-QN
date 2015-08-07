@@ -42,5 +42,5 @@ Please refer to section 3 of the [TFOCS user guide](https://github.com/cvxr/TFOC
 
 ## Demo: sparse fused logistic regression
 
-In File: fused_sparse_demo.m 
+In File: [fused_sparse_demo.m](https://github.com/NewtonOptimization/SEP-QN/blob/master/fused_sparse_demo.m)
 
